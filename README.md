@@ -8,6 +8,8 @@
 
 # Secure Serverless File Sharing (AWS)
 
+![Thumbnail](images/thumbnail.png)
+
 A fully serverless and security-focused file-sharing backend inspired by enterprise cloud security platforms.
 
 Users authenticate through **AWS Cognito** and securely upload/download files using **time-limited presigned URLs**, with a full **audit trail in DynamoDB**.
